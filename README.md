@@ -1,4 +1,4 @@
-# VideoGameSales
+# Video Game Sales
 
 ## About the Author
 
@@ -10,7 +10,7 @@ Mercyhurst University
 
 
 
-This project is submitted to
+## This project is submitted to
 
 ### Dr.Bora Pajo, PhD
 
