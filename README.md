@@ -18,9 +18,7 @@ Assistant Professor | Applied Sociology and Social Work
 
 Mercyhurst University
 
-As requirement to complete 
-DATA 550 Data Visualization
-as part of Master of Science in Data Science
+As requirement to complete the course DATA 550 Data Visualization as part of Master of Science in Data Science
 
 ## About the Dataset
 
@@ -57,7 +55,7 @@ Source : https://www.kaggle.com/gregorut/videogamesales/data
 - [Install](##install)
 - [Usage](##usage)
 - [Project Explaination](##Project-explaination)
-- [Preview of the plots](##Preview of the plots)
+- [Preview of the plots](##Preview-of-the-plots)
 - [License](##license)
 
 ## Background
@@ -78,7 +76,7 @@ As part of our course, we were given a choice to select a dataset and run visual
 
 7) Submit on github and kaggle (if using kaggle datasets), just github if you are using data from other sources like drivedata.org or other census data.
 
-I selected video game sales to investigate which type of Genre is most sold and also furhter investigate the number of sales varaition through years.
+I selected video game sales to investigate which type of Genre, platform is most sold and also further investigate the number of sales variation  through years.
 
 ## Install
 
@@ -92,7 +90,7 @@ matplotlib
 
 ## Usage
 
-This project is submitted to
+This is a class project project that is submitted to
 
 ### Dr.Bora Pajo, PhD
 
@@ -100,14 +98,13 @@ Assistant Professor | Applied Sociology and Social Work
 
 Mercyhurst University
 
-As requirement to complete 
-DATA 550 Data Visualization
-as part of Master of Science in Data Science
+As requirement to complete the course DATA 550 Data Visualization as part of Master of Science in Data Science. 
+All the codes are available freely online and can be reproduced any of my codes without any citation.
 
 
 ## Project Explaination
 
-In this p[roject we follow below steps
+In this project we follow below steps
 
 1. We install all the required library in Anaconda
 2. Import the vgsales csv file
