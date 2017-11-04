@@ -53,11 +53,12 @@ Source : https://www.kaggle.com/gregorut/videogamesales/data
 
 ## Table of Contents
 
-- [Background](#background)
-- [Install](#install)
-- [Usage](#usage)
-- [Project Explaination](#Project-explaination)
-- [License](#license)
+- [Background](##background)
+- [Install](##install)
+- [Usage](##usage)
+- [Project Explaination](##Project-explaination)
+- [Preview of the plots](##Preview of the plots)
+- [License](##license)
 
 ## Background
 
@@ -106,17 +107,13 @@ as part of Master of Science in Data Science
 
 ## Project Explaination
 
-In this p[roject we follwo below steps
+In this p[roject we follow below steps
 
 1. We install all the required library in Anaconda
 2. Import the vgsales csv file
 3. Check for any NA/NaN and remove them
-4. Using Matplotlib to plot barplot comparing
-> Genre and number of sales
-> Year and number of sales
-5. Using Matplotlib to plot pie chart comparing
-> Genre and number of sales
-> Platform and number of sales
+4. Using Matplotlib to plot barplot comparing Genre and number of sales and Year and number of sales
+5. Using Matplotlib to plot pie chart comparing Genre and number of sales and Platform and number of sales
 6. Using Matplotlib to plot boxplot comparing genre and number of sales
 7. Using Matplotlib to plot area chart comparing Platform and number of sales
 8. Using Matplotlib to plot kde comparing genre and number of sales
@@ -135,4 +132,5 @@ In this p[roject we follwo below steps
 | Area chart      | ![GitHub Logo](/7.JPG)  | 
 | kde      | ![GitHub Logo](/8.JPG)  | 
 
-|      | ![GitHub Logo](/2.jpg) | 
+## License
+Not Applicable
