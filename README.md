@@ -1,8 +1,8 @@
 # VideoGameSales
 
-## Avout the Author
+## About the Author
 
-*Praveen Kumar Neelappa*
+### Praveen Kumar Neelappa
 
 Graduate Student | Data Science Program
 
@@ -10,7 +10,7 @@ Mercyhurst University
 
 This project is submitted to
 
-Dr.Bora Pajo, PhD
+### Dr.Bora Pajo, PhD
 
 Assistant Professor | Applied Sociology and Social Work
 
@@ -91,7 +91,7 @@ matplotlib
 
 This project is submitted to
 
-Dr.Bora Pajo, PhD
+### Dr.Bora Pajo, PhD
 
 Assistant Professor | Applied Sociology and Social Work
 
