@@ -106,6 +106,33 @@ as part of Master of Science in Data Science
 
 ## Project Explaination
 
+In this p[roject we follwo below steps
+
+1. We install all the required library in Anaconda
+2. Import the vgsales csv file
+3. Check for any NA/NaN and remove them
+4. Using Matplotlib to plot barplot comparing
+> Genre and number of sales
+> Year and number of sales
+5. Using Matplotlib to plot pie chart comparing
+> Genre and number of sales
+> Platform and number of sales
+6. Using Matplotlib to plot boxplot comparing genre and number of sales
+7. Using Matplotlib to plot area chart comparing Platform and number of sales
+8. Using Matplotlib to plot kde comparing genre and number of sales
 
                                      
-## License
+## Preview of the plots
+
+| Type of Graph       | Graph     | 
+| ------------- |:-------------:| 
+| Bar chart        | ![GitHub Logo](/1.JPG)  | 
+| Barh chart        | ![GitHub Logo](/2.JPG)  | 
+| Bar chart      | ![GitHub Logo](/3.JPG)  | 
+| Pie Chart      | ![GitHub Logo](/4.JPG)  | 
+| Pie Chart      | ![GitHub Logo](/5.JPG)  | 
+| Boxplot      | ![GitHub Logo](/6.JPG)  | 
+| Area chart      | ![GitHub Logo](/7.JPG)  | 
+| kde      | ![GitHub Logo](/8.JPG)  | 
+
+|      | ![GitHub Logo](/2.jpg) | 
